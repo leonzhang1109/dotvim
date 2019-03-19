@@ -17,4 +17,5 @@ Switch to the `~/.vim` directory, and fetch submodules:
     git submodule update
 
 Update all plugin
+
     apt-vim update -y
