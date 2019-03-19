@@ -1,0 +1,21 @@
+[submodule "vimpkg/bundle/nerdtree"]
+	path = vimpkg/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vimpkg/bundle/vim-mark"]
+	path = vimpkg/bundle/vim-mark
+	url = https://github.com/inkarkat/vim-mark.git
+[submodule "vimpkg/bundle/vim-fugitive"]
+	path = vimpkg/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vimpkg/bundle/pathogen"]
+	path = vimpkg/bundle/pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "vimpkg/bundle/vim-ingo-library"]
+	path = vimpkg/bundle/vim-ingo-library
+	url = https://github.com/inkarkat/vim-ingo-library.git
+[submodule "vimpkg/bundle/tagbar"]
+	path = vimpkg/bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "vimpkg/bundle/cscope_maps"]
+	path = vimpkg/bundle/cscope_maps
+	url = https://github.com/chazy/cscope_maps.git
