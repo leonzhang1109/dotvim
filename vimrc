@@ -34,6 +34,8 @@ set ruler
 set incsearch
 "修改文件自动备份    
 set nobackup
+"Automatically removing all trailing whitespace for specific file type
+autocmd FileType c,cpp,java,php autocmd BufWritePre <buffer> %s/\s\+$//e
 "if has("vms")
 "    set nobackup
 "else
